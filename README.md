@@ -3,13 +3,16 @@ Machine learning-based vibration analysis system for early fault detection in in
 
 ## Project Dashboard
 [![Dashboard](https://img.shields.io/badge/Visit-Dashboard-blue?style=for-the-badge&logo=amazonwebservices)](https://dashboard-link-placeholder.com)
-Will add once dashboard is ready, will be made in Django, deployed on AWS or Azure
+
+**Will add once dashboard is ready, will be made in Django and deployed on AWS or Azure**
 
 By: Ahmed Ayaz
 Date: 12/10/2024  
 
-## Important Note
+## Important Notes
 This project is contained entirely in a single Jupyter notebook: `/final_project/vibration_analysis_system.ipynb`. All code, analysis, visualizations, and detailed documentation can be found in this notebook and directory. Please refer to this file for the complete project implementation.
+
+Addtionally, the dataset contains more than 10,000 files so github was not letting me push all files to repository even if i did set by set. Please download dataset from link provided in references.
 
 ---
 
