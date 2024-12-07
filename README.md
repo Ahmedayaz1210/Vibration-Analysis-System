@@ -2,8 +2,8 @@
 Machine learning-based vibration analysis system for early fault detection in industrial bearings using NASA's bearing dataset.
 
 ## Project Dashboard
-[![Dashboard](https://img.shields.io/badge/Visit-Dashboard-blue?style=for-the-badge&logo=vercel)](https://dashboard-link-placeholder.com)
-
+[![Dashboard](https://img.shields.io/badge/Visit-Dashboard-blue?style=for-the-badge&logo=amazonwebservices)](https://dashboard-link-placeholder.com)
+Will add once dashboard is ready, will be made in Django, deployed on AWS or Azure
 
 By: Ahmed Ayaz
 Date: 12/10/2024  
