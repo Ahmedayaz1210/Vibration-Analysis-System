@@ -2,9 +2,10 @@
 Machine learning-based vibration analysis system for early fault detection in industrial bearings using NASA's bearing dataset.
 
 ## Project Dashboard
-[![Dashboard](https://img.shields.io/badge/Visit-Dashboard-blue?style=for-the-badge&logo=amazonwebservices)](https://dashboard-link-placeholder.com)
+[![Dashboard](https://img.shields.io/badge/Visit-Dashboard-blue?style=for-the-badge&logo=amazonwebservices)]([https://dashboard-link-placeholder.com](http://vibrationanalysislb-527968510.us-east-1.elb.amazonaws.com:8000/))
 
-**Will add once dashboard is ready, will be made in Django and deployed on AWS or Azure**
+## Dashboard Repository
+[![Dashboard Repoistory](https://img.shields.io/badge/Visit-red?style=for-the-badge&logo=github)](https://github.com/Ahmedayaz1210/bearing-analysis-dashboard)
 
 By: Ahmed Ayaz
 Date: 12/10/2024  
