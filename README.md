@@ -24,8 +24,8 @@ Addtionally, the dataset contains more than 10,000 files so github was not letti
 | **Section 1: Introduction**      |  
 | **Section 2: Data Analysis and Exploration**  |  
 | **Section 3: Signal Processing** |  
-| **Section 4: Modeling and Prediction** |  
-| **Section 5: Results**           |  
+| **Section 4: Feature Engineering** |  
+| **Section 5: Modeling and Prediction** |  
 | **Section 6: References**        |  
 
 ---
