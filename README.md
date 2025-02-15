@@ -3,6 +3,7 @@ Machine learning-based vibration analysis system for early fault detection in in
 
 ## Project Dashboard
 [![Dashboard](https://img.shields.io/badge/Visit-Dashboard-blue?style=for-the-badge&logo=amazonwebservices)]([https://dashboard-link-placeholder.com](http://vibrationanalysislb-527968510.us-east-1.elb.amazonaws.com:8000/))
+### Note:I had to take down dashboard due to AWS cost
 
 ## Dashboard Repository
 [![Dashboard Repoistory](https://img.shields.io/badge/Visit-red?style=for-the-badge&logo=github)](https://github.com/Ahmedayaz1210/bearing-analysis-dashboard)
